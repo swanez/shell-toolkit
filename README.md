@@ -1,6 +1,6 @@
-# shell-toolkit
+# DevOps toolkit
 
-#### A collection of practical shell scripts for Linux system administration and server operations.
+#### A practical DevOps toolkit for infrastructure automation, Linux administration and server operations.
 ------------------------------
 #### 1. [`health_check.sh`](scripts/health_check.sh)
 - **Description**: Remotely inspects a target server's health over SSH, reporting CPU usage,
